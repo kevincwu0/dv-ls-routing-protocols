@@ -1,6 +1,6 @@
 # Distance Vector and Link State Routing Protocols
 
-We will implement and compare two important types of routing protocols: the distance-vector (DV) protocol and the link-state (LS) protocol. Here are some notes regarding the motivation, challenges, design goals, classification, etc. of routing protocols for future reference.
+We will implement and compare two important types of routing protocols: the distance-vector (DV) protocol and the link-state (LS) protocol along with examples of Dijsksta (for LS) and Bellman Ford algorithms (for DV). Here are some notes regarding the motivation, challenges, design goals, classification, etc. of routing protocols for future reference.
 
 **Motivation**:
 
